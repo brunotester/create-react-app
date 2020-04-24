@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React2x
+          Learn React2xy
         </a>
       </header>
     </div>
